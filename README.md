@@ -8,3 +8,5 @@ This is useful because 1) for some applications, you want Flash installed upon f
 This program requires that Awesomium libraries are installed to a shared location or the same path as this program.  In a typical installation scenario, this program should be run after installing your Awesomium-based product.
 
 If you want to check if Flash is installed from within your program, use AwesomiumFlashChecker.cs and see Program.cs for example usage.
+
+Download mute.fm (http://www.mute.fm/) to experience it in action.
