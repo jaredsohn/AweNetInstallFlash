@@ -10,3 +10,7 @@ This program requires that the same version of Awesomium libraries are installed
 If you want to check if Flash is installed from within your program, use AwesomiumFlashChecker.cs and see Program.cs for example usage.
 
 Download mute.fm (http://www.mute.fm/) to experience it in action.
+
+
+[![Bitdeli Badge](https://d2weczhvl823v0.cloudfront.net/jaredsohn/awenetinstallflash/trend.png)](https://bitdeli.com/free "Bitdeli Badge")
+
